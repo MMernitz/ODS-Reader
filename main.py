@@ -3,7 +3,10 @@ import collections
 
 # base_path = "eaqua_polybios_30sim_alltime_book1.ods"
 # base_path = "eaqua_polybios_30sim_alltime_book3.ods"
-base_path = "eaqua_polybios_30sim_alltime.ods"
+# base_path = "eaqua_polybios_30sim_alltime.ods"
+# base_path = "eaqua_cassiusdio_30sim_alltime.ods"
+# base_path = "eaqua_diodorus_30sim_alltime.ods"
+base_path="eaqua_plutarch_30sim_alltime.ods"
 sheet_index = 1
 df = read_ods(base_path)
 authors = {}
