@@ -1,6 +1,7 @@
 from pandas_ods_reader import read_ods
 import collections
 
+# the input is very basic, for further use it should take user input
 # base_path = "eaqua_polybios_30sim_alltime_book1.ods"
 # base_path = "eaqua_polybios_30sim_alltime_book3.ods"
 # base_path = "eaqua_polybios_30sim_alltime.ods"
